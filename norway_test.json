@@ -1,0 +1,77 @@
+{
+   "Ads":[
+      {
+         "select_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN",
+         "backup_mode":"0",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "admob_interid":"ca-app-pub-3940256099942544/1033173712",
+         "admob_nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "admob_openid":"ca-app-pub-3940256099942544/3419835294",
+         "interval_intertitial":1,
+         "startappid":"",
+         "fan_inter":"",
+         "fan_banner_native":"",
+         "fan_banner":"",
+         "mopub_banner":"",
+         "mopub_inter":"",
+         "applovin_banner":"59b2d04842a0e8de",
+         "applovin_inter":"3c229d407ee6e362",
+         "packagename":"com.fridaymodfunny.norwaypublicholidays"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"More",
+         "image":"https://wallpapercave.com/wp/wp1820798.jpg",
+         "link":"https://play.google.com/store/apps/developer?id=FRIDAYMODFUNNY"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Easy",
+         "image":"https://wallpapercave.com/wp/wp1820798.jpg"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"Easy",
+         "title":"Public Holidays 2021",
+         "image":"https://wallpapercave.com/wp/wp1820798.jpg",
+         "description":"...",
+         "link":"<table border=1><thead><tr><th>Date</th><th>Day</th><th>Holiday Name</th><th>Holiday Type</th></tr></thead><tbody><tr><td>1 Apr</td><td>Thursday</td><td>Maundy Thursday</td></tr><tr><td>1 Jan</td><td>Friday</td><td>New Year's Day</td><td>National holiday</td></tr><tr><td>1 May</td><td>Saturday</td><td>Labor day</td><td>National holiday, Flag day</td></tr><tr><td>13 May</td><td>Thursday</td><td>Ascension Day</td><td>National holiday</td></tr><tr><td>17 May</td><td>Monday</td><td>17 May Constitution Day (1814)</td><td>National holiday, Flag day</td></tr><tr><td>2 Apr</td><td>Friday</td><td>Good Friday</td><td>National holiday</td></tr><tr><td>23 May</td><td>Sunday</td><td>Whit Sunday</td><td>National holiday</td></tr><tr><td>24 May</td><td>Monday</td><td>Whit Monday</td><td>National holiday</td></tr><tr><td>25 Dec</td><td>Saturday</td><td>Christmas Day</td><td>National holiday</td></tr><tr><td>26 Dec</td><td>Sunday</td><td>Boxing Day</td><td>National holiday</td></tr><tr><td>4 Apr</td><td>Sunday</td><td>Easter Sunday</td><td>National holiday</td></tr><tr><td>5 Apr</td><td>Monday</td><td>Easter Monday</td><td>National holiday</td></tr></tbody></table>"
+      },{
+         "id":2,
+         "name_category":"Easy",
+         "title":"The Norwegian Lifestyle",
+         "image":"https://www.studyinnorway.no/var/ezdemo_site/storage/images/media/images/liefestyle/616449-1-eng-GB/liefestyle_frontpage_banner.jpg",
+         "description":"...",
+         "link":"<p>The Norwegian lifestyle is strongly connected to the time spent on studies and work. The work/life balance has become more demanding, with increasing expectations of professional and personal availability.<br><br>The difference between who you are at work and in your free time is not that big. In Norway it is generally accepted to be personal at work. In return, it is also expected that work can be taken home &ndash; often in the form of a long weekend with home office at the cabin.<br><br>Norwegians study and work hard during the week and the year &ndash; but are also good at resting and relaxation. An average working week consists of five seven-and-a-half-hour workdays. The average Norwegian takes every weekend off &ndash; and has five weeks paid vacation per year. Good health and an active lifestyle are important. Evenings and weekends are often filled with activities, from theater performances and concerts to outdoor activities and sports. Norwegians have also become an adventurous people who love to travel.<br><br>The difference between who you are at work and in your free time is not that big. In Norway it is generally accepted to be personal at work. In return, it is also expected that work can be taken home &ndash; often in the form of a long weekend with home office at the cabin.<br><br>Norwegians study and work hard during the week and the year &ndash; but are also good at resting and relaxation. An average working week consists of five seven-and-a-half-hour workdays. The average Norwegian takes every weekend off &ndash; and has five weeks paid vacation per year. Good health and an active lifestyle are important. Evenings and weekends are often filled with activities, from theater performances and concerts to outdoor activities and sports. Norwegians have also become an adventurous people who love to travel.</p>"
+      },{
+         "id":3,
+         "name_category":"Easy",
+         "title":"A Casual and Informal Way of Life",
+         "image":"https://www.studyinnorway.no/var/ezdemo_site/storage/images/media/images/a-casual-and-informal-way-of-life/616455-1-eng-GB/a-casual-and-informal-way-of-life_frontpage_banner.jpg",
+         "description":"...",
+         "link":"<p>Norwegians generally have a simple approach to clothes &ndash; often focusing on practical, comfortable garments. This is also reflected in educational and professional settings: there is, for instance, rarely a strict dress code.<br><br>That said, it is worth noting that there has been a significant change in recent years. In keeping with the rise of the minimalist Nordic/Scandinavian style, we see increasing numbers of formally dressed (and well-dressed) Norwegians &ndash; both young and old. The same tendency towards formality is also evident in other areas of public life, for instance in conversation and public debate. This shift towards formality does not mean that Norwegians leave their all-weather jackets and practical shoes at home, or adopt more formal forms of address. It is rather a sign that Norwegians, as a result of increasing globalisation and prosperity, have learned to adapt to the expected etiquette.</p>"
+      },{
+         "id":4,
+         "name_category":"Easy",
+         "title":"Free Time - Evenings, Weekends and Holidays",
+         "image":"https://www.studyinnorway.no/var/ezdemo_site/storage/images/media/images/why2/616461-1-eng-GB/why_frontpage_banner.jpg",
+         "description":"...",
+         "link":"<p>Compared to other countries, people in Norway have a lot of free time. Norwegians admittedly work nine to five, but they have afternoons and evenings off &ndash; in addition to almost every Saturday and Sunday, as well as Christmas, Easter and summer holidays.<br><br>Football (soccer) and handball rank among the most popular recreational activities for children and youth. Running, cycling and swimming have also become more popular forms of exercise. Nevertheless, it is cross-country skiing that deserves to be called our national sport, and one in which Norway boasts world-class results.<br><br>Norwegians also like being outdoors, and often go for short or long walks in the fields, forests and mountains. The typical Norwegian cabin is therefore found in a rural location &ndash; if not in the wilderness. After an active day of skiing or boating, we like to sit back and relax. It is easy for anyone to experience this tradition. The Norwegian Trekking Association operates 500 cabins all over the country that are available for everybody.<br><br>Norwegians also like calm leisure activities. We enjoy reading, and will happily immerse ourselves in a good book in front of the fireplace, do needlework or play board games with the family.</p>"
+      },{
+         "id":5,
+         "name_category":"Easy",
+         "title":"A New Lifestyle and Taste for the World",
+         "image":"https://www.studyinnorway.no/var/ezdemo_site/storage/images/media/images/kafe/616473-1-eng-GB/kafe_frontpage_banner.jpg",
+         "description":"...",
+         "link":"<p>Norwegians have always been fond of traveling. City vacations are popular and common, usually to major European cities, but transatlantic journeys and trips to Asia are also on the rise. The young tend to travel more than their parents and grandparents, and spend more time and money at restaurants and bars.<br><br>The number of restaurants in Norway is rising, and offer almost every kind of national food culture &ndash; from Japanese and Vietnamese to Mexican and Somali. Norwegian cuisine has also regained its status &ndash; from Maeemo in Oslo to Lysverket in Bergen. The new Norwegian cuisine is often described as &lsquo;Neo-Nordic&rsquo; or even &lsquo;Neo-fjordic&rsquo; due to the focus on taking a fresh approach to local ingredients &ndash; especially seafood delicacies.<br><br>Norwegians also love their coffee. It is, however, worth mentioning that Norwegians drink coffee in a slightly different way than in many other European countries. If someone invites you out for coffee, it has a specific meaning. This means &lsquo;let&rsquo;s sit down and talk over coffee&rsquo;. &Aring; ta en kaffe means setting aside time for family, friends or colleagues. The quality of the coffee has previously been less important, but this has changed over the years. Oslo is now known as one of the best speciality coffee cities in the world &ndash; the unofficial home of the light roast. For the coffee lovers out there, this would definitely make your Study in Norway experience that much better.</p>"
+      }
+   ]
+}
