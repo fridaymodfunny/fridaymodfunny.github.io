@@ -24,7 +24,7 @@
    "More":[
       {
          "id":1,
-         "title":"Ludo King",
+         "title":"More",
          "image":"https://wallpapercave.com/wp/wp1820798.jpg",
          "link":"https://play.google.com/store/apps/developer?id=FRIDAYMODFUNNY"
       }
@@ -33,7 +33,7 @@
       {
          "id":1,
          "name_category":"Easy",
-         "image":"https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+         "image":"https://wallpapercave.com/wp/wp1820798.jpg"
       }
    ],
    "Data":[
@@ -43,7 +43,7 @@
          "title":"Public Holidays 2021",
          "image":"https://wallpapercave.com/wp/wp1820798.jpg",
          "description":"...",
-         "link":"1"
+         "link":"<table><thead><tr><th>Date</th><th>Day</th><th>Holiday Name</th><th>Holiday Type</th></tr></thead><tbody><tr><td>1 Apr</td><td>Thursday</td><td>Maundy Thursday</td></tr><tr><td>1 Jan</td><td>Friday</td><td>New Year's Day</td><td>National holiday</td></tr><tr><td>1 May</td><td>Saturday</td><td>Labor day</td><td>National holiday, Flag day</td></tr><tr><td>13 May</td><td>Thursday</td><td>Ascension Day</td><td>National holiday</td></tr><tr><td>17 May</td><td>Monday</td><td>17 May Constitution Day (1814)</td><td>National holiday, Flag day</td></tr><tr><td>2 Apr</td><td>Friday</td><td>Good Friday</td><td>National holiday</td></tr><tr><td>23 May</td><td>Sunday</td><td>Whit Sunday</td><td>National holiday</td></tr><tr><td>24 May</td><td>Monday</td><td>Whit Monday</td><td>National holiday</td></tr><tr><td>25 Dec</td><td>Saturday</td><td>Christmas Day</td><td>National holiday</td></tr><tr><td>26 Dec</td><td>Sunday</td><td>Boxing Day</td><td>National holiday</td></tr><tr><td>4 Apr</td><td>Sunday</td><td>Easter Sunday</td><td>National holiday</td></tr><tr><td>5 Apr</td><td>Monday</td><td>Easter Monday</td><td>National holiday</td></tr></tbody></table>"
       }
    ]
 }
