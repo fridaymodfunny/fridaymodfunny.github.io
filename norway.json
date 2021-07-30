@@ -1,0 +1,53 @@
+{
+  "Ads": [
+  {
+	"select_ads": "ADMOB",
+    "select_backup_ads": "APPLOVIN",
+    "backup_mode": "0",
+    "status_app": "0",
+    "link_redirect": "https://",
+    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
+    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
+    "admob_openid": "ca-app-pub-3940256099942544/3419835294",
+    "interval_intertitial": 1,
+    "startappid": "201669628",
+    "fan_inter": "YOUR_PLACEMENT_ID",
+    "fan_banner_native": "YOUR_PLACEMENT_ID",
+    "fan_banner": "YOUR_PLACEMENT_ID",
+    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
+    "mopub_inter": "24534e1901884e398f1253216226017e",
+    "applovin_banner": "db4d5e8718b97d78",
+    "applovin_inter": "518cd97722c60b52",
+    "packagename": "com.aliendroid.alienguide"
+  }
+],
+  "More":
+  [
+    {
+      "id":1,
+      "title":"Ludo King",
+      "image":"https://wallpapercave.com/wp/wp1820798.jpg",
+      "link":"https://play.google.com/store/apps/developer?id=FRIDAYMODFUNNY"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Public Holidays 2021",
+      "image": "https://wallpapercave.com/wp/wp1820798.jpg",
+      "description": "...",
+      "link": "<table id="tablepress-208-no-2" class="tablepress tablepress-id-208 dataTable no-footer" role="grid"><thead><tr class="row-1 odd" role="row"><th class="column-1 sorting sorting_asc" tabindex="0" aria-controls="tablepress-208-no-2" rowspan="1" colspan="1" style="width: 58.8167px;" aria-label="Date: activate to sort column descending" aria-sort="ascending">Date</th><th class="column-2 sorting" tabindex="0" aria-controls="tablepress-208-no-2" rowspan="1" colspan="1" style="width: 75.95px;" aria-label="Day: activate to sort column ascending">Day</th><th class="column-3 sorting" tabindex="0" aria-controls="tablepress-208-no-2" rowspan="1" colspan="1" style="width: 250.433px;" aria-label="Holiday Name: activate to sort column ascending">Holiday Name</th><th class="column-4 sorting" tabindex="0" aria-controls="tablepress-208-no-2" rowspan="1" colspan="1" style="width: 203.8px;" aria-label="Holiday Type: activate to sort column ascending">Holiday Type</th></tr></thead><tbody class="row-hover"><tr class="row-3 even">	<td class="column-1">1 Apr</td><td class="column-2">Thursday</td><td class="column-3">Maundy Thursday</td><td class="column-4">National holiday</td></tr><tr class="row-2 odd">	<td class="column-1">1 Jan</td><td class="column-2">Friday</td><td class="column-3">New Year's Day</td><td class="column-4">National holiday</td></tr><tr class="row-7 even">	<td class="column-1">1 May</td><td class="column-2">Saturday</td><td class="column-3">Labor day</td><td class="column-4">National holiday, Flag day</td></tr><tr class="row-8 odd">	<td class="column-1">13 May</td><td class="column-2">Thursday</td><td class="column-3">Ascension Day</td><td class="column-4">National holiday</td></tr><tr class="row-9 even">	<td class="column-1">17 May</td><td class="column-2">Monday</td><td class="column-3">17 May Constitution Day (1814)</td><td class="column-4">National holiday, Flag day</td></tr><tr class="row-4 odd">	<td class="column-1">2 Apr</td><td class="column-2">Friday</td><td class="column-3">Good Friday</td><td class="column-4">National holiday</td></tr><tr class="row-10 even">	<td class="column-1">23 May</td><td class="column-2">Sunday</td><td class="column-3">Whit Sunday</td><td class="column-4">National holiday</td></tr><tr class="row-11 odd">	<td class="column-1">24 May</td><td class="column-2">Monday</td><td class="column-3">Whit Monday</td><td class="column-4">National holiday</td></tr><tr class="row-12 even">	<td class="column-1">25 Dec</td><td class="column-2">Saturday</td><td class="column-3">Christmas Day</td><td class="column-4">National holiday</td></tr><tr class="row-13 odd">	<td class="column-1">26 Dec</td><td class="column-2">Sunday</td><td class="column-3">Boxing Day</td><td class="column-4">National holiday</td></tr><tr class="row-5 even">	<td class="column-1">4 Apr</td><td class="column-2">Sunday</td><td class="column-3">Easter Sunday</td><td class="column-4">National holiday</td></tr><tr class="row-6 odd">	<td class="column-1">5 Apr</td><td class="column-2">Monday</td><td class="column-3">Easter Monday</td><td class="column-4">National holiday</td></tr></tbody></table>"
+    }
+  ]
+}
