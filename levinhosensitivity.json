@@ -1,0 +1,70 @@
+{
+   "Ads":[
+      {
+         "select_ads":"ADMOB",
+         "select_backup_ads":"APPLOVIN",
+         "backup_mode":"0",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "admob_interid":"ca-app-pub-3940256099942544/1033173712",
+         "admob_nativeid":"ca-app-pub-3940256099942544/2247696110",
+         "admob_openid":"ca-app-pub-3940256099942544/3419835294",
+         "interval_intertitial":1,
+         "startappid":"",
+         "fan_inter":"",
+         "fan_banner_native":"",
+         "fan_banner":"",
+         "mopub_banner":"",
+         "mopub_inter":"",
+         "applovin_banner":"",
+         "applovin_inter":"",
+         "packagename":"com.changeme.levinhosensitivity"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Check This Out!",
+         "image":"https://1.bp.blogspot.com/-ANYJ3lo9hMo/XWo5kJoQXgI/AAAAAAAAAqo/25dUM8NQFocMXLAnbw19MkWdsHxG6TuZQCLcBGAs/s320/EAA8F27A-73E1-4C4E-8A96-3FBD306CBD47.jpeg",
+         "link":"https://play.google.com/store/apps/developer?id=CHANGEME"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"Levinho",
+         "image":"https://1.bp.blogspot.com/-ANYJ3lo9hMo/XWo5kJoQXgI/AAAAAAAAAqo/25dUM8NQFocMXLAnbw19MkWdsHxG6TuZQCLcBGAs/s320/EAA8F27A-73E1-4C4E-8A96-3FBD306CBD47.jpeg"
+      }
+   ],
+   "Data":[
+      {
+         "id":4,
+         "name_category":"Levinho",
+         "title":"Control Setup",
+         "image":"https://staticg.sportskeeda.com/editor/2020/08/7d758-15988547132362-800.jpg",
+         "description":"...",
+         "link":"<p>Levinho is a four-finger claw player and plays on an iPhone XS Max. He uses the &apos;always-on&apos; gyro settings to move his crosshair and knock down enemies.<br><br>Levinho&apos;s PUBG Mobile setup looks like this:</p><img src=\"https://staticg.sportskeeda.com/editor/2020/08/7d758-15988547132362-800.jpg\" />"
+      },{
+         "id":3,
+         "name_category":"Levinho",
+         "title":"Camera Sensitivity",
+         "image":"https://staticg.sportskeeda.com/editor/2020/08/7d758-15988547132362-800.jpg",
+         "description":"...",
+         "link":"<p>3rd Person Camera (Free Look): 198%<br>Camera (Free Look): 132%<br>1st Person Camera (Free Look): 300%<br>3rd Person No Scope: 300%<br>1st Person No Scope: 300%<br>Red Dot, Holographic, Aim Assist: 60%<br>2x Scope: 36%<br>3x Scope: 22%<br>4x Scope: 17%<br>6x Scope: 8%<br>8x Scope: 8%</p>"
+      },{
+         "id":2,
+         "name_category":"Levinho",
+         "title":"ADS Sensitivity",
+         "image":"https://staticg.sportskeeda.com/editor/2020/08/7d758-15988547132362-800.jpg",
+         "description":"...",
+         "link":"<p>3rd Person No Scope: 300%<br>1st Person No Scope: 120%<br>Red Dot, Holographic, Aim Assist: 60%<br>2x Scope: 36%<br>3x Scope: 22%<br>4x Scope: 20%<br>6x Scope: 12%<br>8x Scope: 12%</p>"
+      },{
+         "id":1,
+         "name_category":"Levinho",
+         "title":"Gyroscope Sensitivity",
+         "image":"https://staticg.sportskeeda.com/editor/2020/08/7d758-15988547132362-800.jpg",
+         "description":"...",
+         "link":"<p>3rd Person No Scope: 300%<br>1st Person No Scope: 300%<br>Red Dot, Holographic, Aim Assist: 300%<br>2x Scope: 300%<br>3x Scope: 150%<br>4x Scope: 135%<br>6x Scope: 57%<br>8x Scope: 55%</p>"
+      }
+   ]
+}
