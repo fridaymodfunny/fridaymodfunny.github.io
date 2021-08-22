@@ -9,7 +9,7 @@
          "admob_interid":"ca-app-pub-7348224332100052/4936368693",
          "admob_nativeid":"ca-app-pub-7348224332100052/9997123682",
          "admob_openid":"ca-app-pub-7348224332100052/9872645385",
-         "interval_intertitial":1,
+         "interval_intertitial":2,
          "startappid":"",
          "fan_inter":"",
          "fan_banner_native":"",
@@ -37,6 +37,118 @@
       }
    ],
    "Data":[
+      {
+         "id":18,
+         "name_category":"Levinho",
+         "title":"Sensitivity Camera Free Look",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera_free_look.jpg",
+         "description":"...",
+         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera_free_look.jpg\" />"
+      },
+      {
+         "id":17,
+         "name_category":"Levinho",
+         "title":"Sensitivity Camera",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera.jpg",
+         "description":"...",
+         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera.jpg\" />"
+      },
+      {
+         "id":16,
+         "name_category":"Levinho",
+         "title":"Sensitivity ADS",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_ads.jpg",
+         "description":"...",
+         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_ads.jpg\" />"
+      },
+      {
+         "id":15,
+         "name_category":"Levinho",
+         "title":"Sensitivity Gyroscope",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_gyroscope.jpg",
+         "description":"...",
+         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_gyroscope.jpg\" />"
+      },
+      {
+         "id":14,
+         "name_category":"Levinho",
+         "title":"Control Layout",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout.jpg",
+         "description":"...",
+         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout.jpg\" />"
+      },
+      {
+         "id":13,
+         "name_category":"Levinho",
+         "title":"Control Layout Share Code",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout_share_code.jpg",
+         "description":"...",
+         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout_share_code.jpg\" />"
+      },
+      {
+         "id":12,
+         "name_category":"Levinho",
+         "title":"Scope Crosshair",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_scope.jpg",
+         "description":"...",
+         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_scope.jpg\" />"
+      },
+      {
+         "id":11,
+         "name_category":"Levinho",
+         "title":"Graphic",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_graphic.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_graphic.jpg\" />"
+      },
+      {
+         "id":10,
+         "name_category":"Levinho",
+         "title":"Graphic Brightness",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_graphic_brightness.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_graphic_brightness.jpg\" />"
+      },
+      {
+         "id":9,
+         "name_category":"Levinho",
+         "title":"Audio",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_audio.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_audio.jpg\" />"
+      },
+      {
+         "id":8,
+         "name_category":"Levinho",
+         "title":"Basic Server",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_server.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_server.jpg\" />"
+      },
+      {
+         "id":7,
+         "name_category":"Levinho",
+         "title":"Basic RP",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_rp.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_rp.jpg\" />"
+      },
+      {
+         "id":6,
+         "name_category":"Levinho",
+         "title":"Basic Privacy",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_privacy.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_privacy.jpg\" />"
+      },
+      {
+         "id":5,
+         "name_category":"Levinho",
+         "title":"Basic Aim",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_aim.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_basic_aim.jpg\" />"
+      },
       {
          "id":4,
          "name_category":"Levinho",
