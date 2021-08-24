@@ -38,12 +38,20 @@
    ],
    "Data":[
       {
+         "id":29,
+         "name_category":"Levinho",
+         "title":"2021 Equipments",
+         "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_equipment.jpg",
+         "description":"...",
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_equipment.jpg\" /><p>Headphone ATH-M50X<p/><p>Belkin iPhone Adapter Audio + Charge<p/><p>iPhone 12 Pro Max<p/>"
+      },
+      {
          "id":28,
          "name_category":"Levinho",
          "title":"2021 Sensitivity Camera Free Look",
          "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera_free_look.jpg",
          "description":"...",
-         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera_free_look.jpg\" />"
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera_free_look.jpg\" />"
       },
       {
          "id":27,
@@ -51,7 +59,7 @@
          "title":"2021 Sensitivity Camera",
          "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera.jpg",
          "description":"...",
-         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera.jpg\" />"
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_camera.jpg\" />"
       },
       {
          "id":26,
@@ -59,7 +67,7 @@
          "title":"2021 Sensitivity ADS",
          "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_ads.jpg",
          "description":"...",
-         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_ads.jpg\" />"
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_ads.jpg\" />"
       },
       {
          "id":25,
@@ -67,7 +75,7 @@
          "title":"2021 Sensitivity Gyroscope",
          "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_gyroscope.jpg",
          "description":"...",
-         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_gyroscope.jpg\" />"
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_sensitivity_gyroscope.jpg\" />"
       },
       {
          "id":24,
@@ -75,7 +83,7 @@
          "title":"2021 Control Layout",
          "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout.jpg",
          "description":"...",
-         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout.jpg\" />"
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout.jpg\" />"
       },
       {
          "id":23,
@@ -83,7 +91,7 @@
          "title":"2021 Control Layout Share Code",
          "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout_share_code.jpg",
          "description":"...",
-         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout_share_code.jpg\" />"
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_control_layout_share_code.jpg\" />"
       },
       {
          "id":22,
@@ -91,7 +99,7 @@
          "title":"2021 Scope Crosshair",
          "image":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_scope.jpg",
          "description":"...",
-         "link":"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_scope.jpg\" />"
+         "link":"<img src=\"https://fridaymodfunny.github.io/levinho/2021/may/levinho_setting_scope.jpg\" />"
       },
       {
          "id":21,
