@@ -1,0 +1,111 @@
+{
+   "Ads":[
+      {
+         "select_ads":"ADMOB",
+         "status_app":"0",
+         "link_redirect":"https://",
+         "admob_interid":"ca-app-pub-7348224332100052/5343562802",
+         "admob_nativeid":"ca-app-pub-7348224332100052/9091236128",
+         "admob_openid":"ca-app-pub-7348224332100052/4553225319",
+         "interval_intertitial":"2",
+         "startappid":"",
+         "fan_inter":"",
+         "fan_banner_native":"",
+         "mopub_banner":"",
+         "mopub_inter":"",
+         "unityID":"",
+         "unity_inter":"",
+         "unity_banner":"",
+         "packagename":"com.fridaymodfunny.visualskinm762"
+      }
+   ],
+   "More":[
+      {
+         "id":1,
+         "title":"Check This Out!",
+         "image":"file:///android_asset/image/skin_m762_underworld_sovereign.jpg",
+         "link":"https://play.google.com/store/apps/developer?id=FRIDAYMODFUNNY"
+      }
+   ],
+   "Categories":[
+      {
+         "id":1,
+         "name_category":"M762",
+         "image":"file:///android_asset/image/skin_m762_underworld_sovereign.jpg"
+      }
+   ],
+   "Data":[
+      {
+         "id":1,
+         "name_category":"M762",
+         "title":"Underworld Sovereign",
+         "image":"file:///android_asset/image/skin_m762_underworld_sovereign.jpg"
+      },
+      {
+         "id":2,
+         "name_category":"M762",
+         "title":"Sunken Templar",
+         "image":"file:///android_asset/image/skin_m762_sunken_templar.jpg"
+      },
+      {
+         "id":3,
+         "name_category":"M762",
+         "title":"Space Mascot",
+         "image":"file:///android_asset/image/skin_m762_space_mascot.jpg"
+      },
+      {
+         "id":4,
+         "name_category":"M762",
+         "title":"Royal Butterfly",
+         "image":"file:///android_asset/image/skin_m762_royal_butterfly.jpg"
+      },
+      {
+         "id":5,
+         "name_category":"M762",
+         "title":"Naughty Christmast",
+         "image":"file:///android_asset/image/skin_m762_naughty_christmast.jpg"
+      },
+      {
+         "id":6,
+         "name_category":"M762",
+         "title":"Dino Park",
+         "image":"file:///android_asset/image/skin_m762_dino_park.jpg"
+      },
+      {
+         "id":7,
+         "name_category":"M762",
+         "title":"Concerto of Love 1",
+         "image":"file:///android_asset/image/skin_m762_concertooflove_level1.jpg"
+      },
+      {
+         "id":8,
+         "name_category":"M762",
+         "title":"Concerto of Love 3",
+         "image":"file:///android_asset/image/skin_m762_concertooflove_level3.jpg"
+      },
+      {
+         "id":9,
+         "name_category":"M762",
+         "title":"Concerto of Love Max",
+         "image":"file:///android_asset/image/skin_m762_concertooflove_max.jpg"
+      },
+      {
+         "id":10,
+         "name_category":"M762",
+         "title":"Cherry Blossom",
+         "image":"file:///android_asset/image/skin_m762_cherry_blossom.jpg"
+      },
+      {
+         "id":11,
+         "name_category":"M762",
+         "title":"Unicorn 1",
+         "image":"file:///android_asset/image/skin_m762_anniversary_level1.jpg"
+      },
+      {
+         "id":12,
+         "name_category":"M762",
+         "title":"Unicorn Max",
+         "image":"file:///android_asset/image/skin_m762_anniversary_max.jpg"
+      }
+   ]
+}
