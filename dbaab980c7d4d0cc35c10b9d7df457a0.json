@@ -106,6 +106,12 @@
          "name_category":"M762",
          "title":"Unicorn Max",
          "image":"file:///android_asset/image/skin_m762_anniversary_max.jpg"
+      },
+      {
+         "id":13,
+         "name_category":"M762",
+         "title":"Glacier Max",
+         "image":"https://fridaymodfunny.github.io/weapon/skin/m762/visual_pub_gun_weapon_skin_m762_glacier_512.png"
       }
    ]
 }
