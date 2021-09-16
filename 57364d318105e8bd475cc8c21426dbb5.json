@@ -1,0 +1,65 @@
+{
+  "Ads": [
+      {
+      "backup_mode":"1",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=",
+      "admob_inter": "ca-app-pub-7348224332100052/6408034321",
+      "admob_native": "ca-app-pub-3940256099942544/2247696110x",
+      "startappid": "200821351",
+      "select_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "select_ads_inter": "ADMOB",
+      "select_backup_ads_inter":"APPLOVIN",
+      "fan_inter": "",
+      "fan_banner_native": "",
+      "fan_native": "",
+      "packagename": "com.fridaymodfunny.scarybabyindarkyellowhouse2",
+      "interval":1
+      }
+   ],
+   "lismenu":[
+      {
+         "menu":"Tutorial and Level 1",
+         "menuurl":"babyinyellow2_00",
+         "desc":"If level won't play\nThen tap black screen and play button on bottom 1",
+         "type":"raw"
+      },
+      {
+         "menu":"Level 2",
+         "menuurl":"babyinyellow2_01",
+         "desc":"If level won't play\nThen tap black screen and play button on bottom 2",
+         "type":"raw"
+      },
+      {
+         "menu":"Level 3",
+         "menuurl":"babyinyellow2_02",
+         "desc":"If level won't play\nThen tap black screen and play button on bottom 3",
+         "type":"raw"
+      },
+      {
+         "menu":"Level 4",
+         "menuurl":"babyinyellow2_03",
+         "desc":"If level won't play\nThen tap black screen and play button on bottom 4",
+         "type":"raw"
+      },
+      {
+         "menu":"Level 5",
+         "menuurl":"babyinyellow2_04",
+         "desc":"If level won't play\nThen tap black screen and play button on bottom 5",
+         "type":"raw"
+      },
+      {
+         "menu":"Level 6",
+         "menuurl":"babyinyellow2_05",
+         "desc":"If level won't play\nThen tap black screen and play button on bottom 6",
+         "type":"raw"
+      },
+      {
+         "menu":"Credits Yellow",
+         "menuurl":"<body text=yellow><p>Thanks for using our services.</p></body>",
+         "desc":"If level won't play\nThen tap black screen and play button on bottom 7",
+         "type":"html"
+      }
+   ]
+}
